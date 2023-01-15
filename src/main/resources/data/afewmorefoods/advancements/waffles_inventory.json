@@ -1,0 +1,87 @@
+{
+  "display": {
+    "icon": {
+      "item": "afewmorefoods:waffle"
+    },
+    "title": "Waffle Maniac",
+    "description": "Have every waffle in your inventory.",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true,
+    "background": "minecraft:textures/block/sculk_catalyst_bottom.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "afewmorefoods:waffle"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:frozen_waffle"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:waffle_with_syrup"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:frozen_waffle_with_syrup"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:blueberry_waffle"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:frozen_blueberry_waffle"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:blueberry_waffle_with_syrup"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:frozen_blueberry_waffle_with_syrup"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:chocolate_chip_waffle"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:frozen_chocolate_chip_waffle"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:chocolate_chip_waffle_with_syrup"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:frozen_chocolate_chip_waffle_with_syrup"
+            ]
+          },
+          {
+            "items": [
+              "afewmorefoods:waffle_waffle"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

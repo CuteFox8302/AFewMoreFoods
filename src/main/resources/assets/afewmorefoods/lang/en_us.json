@@ -1,0 +1,27 @@
+{
+  "itemGroup.afewmorefoods.more_foods": "More Foods",
+
+  "item.afewmorefoods.sap": "Sap",
+  "item.afewmorefoods.maple_syrup": "Maple Syrup",
+  "item.afewmorefoods.blueberry": "Blueberry",
+  "item.afewmorefoods.chocolate_chip": "Chocolate Chip",
+  "item.afewmorefoods.waffle_batter": "Waffle Batter",
+  "item.afewmorefoods.maple_sugar": "Maple Sugar",
+
+  "item.afewmorefoods.waffle_waffle": "Waffle Waffle",
+
+  "item.afewmorefoods.waffle": "Waffle",
+  "item.afewmorefoods.frozen_waffle": "Frozen Waffle",
+  "item.afewmorefoods.waffle_with_syrup": "Waffle with Maple Syrup",
+  "item.afewmorefoods.frozen_waffle_with_syrup": "Frozen Waffle with Maple Syrup",
+
+  "item.afewmorefoods.blueberry_waffle": "Blueberry Waffle",
+  "item.afewmorefoods.frozen_blueberry_waffle": "Frozen Blueberry Waffle",
+  "item.afewmorefoods.blueberry_waffle_with_syrup": "Blueberry Waffle with Maple Syrup",
+  "item.afewmorefoods.frozen_blueberry_waffle_with_syrup": "Frozen Blueberry Waffle with Maple Syrup",
+
+  "item.afewmorefoods.chocolate_chip_waffle": "Chocolate Chip Waffle",
+  "item.afewmorefoods.frozen_chocolate_chip_waffle": "Frozen Chocolate Chip Waffle",
+  "item.afewmorefoods.chocolate_chip_waffle_with_syrup": "Chocolate Chip Waffle with Syrup",
+  "item.afewmorefoods.frozen_chocolate_chip_waffle_with_syrup": "Frozen Chocolate Chip Waffle with Maple Syrup"
+}

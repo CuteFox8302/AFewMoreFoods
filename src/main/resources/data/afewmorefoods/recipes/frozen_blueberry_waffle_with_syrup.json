@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "afewmorefoods:blueberry_waffle_with_syrup"
+    },
+    "%": {
+      "item": "minecraft:ice"
+    }
+  },
+  "pattern": [
+    "%%%",
+    "%#%",
+    "%%%"
+  ],
+  "result": {
+    "item": "afewmorefoods:frozen_waffle"
+  }
+}

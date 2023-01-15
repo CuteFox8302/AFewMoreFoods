@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:diamond_block"
+    },
+    "O": {
+      "item": "minecraft:gold_block"
+    },
+    "S": {
+      "item": "minecraft:iron_block"
+    },
+    "X": {
+      "item": "minecraft:coal_block"
+    },
+    "E": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "I": {
+      "item": "afewmorefoods:waffle"
+    },
+    "D": {
+      "item": "afewmorefoods:blueberry_waffle"
+    },
+    "A": {
+      "item": "afewmorefoods:chocolate_chip_waffle"
+    },
+    "H": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "pattern": [
+    "GIS",
+    "HED",
+    "XAO"
+  ],
+  "result": {
+    "item": "afewmorefoods:waffle_waffle"
+  }
+}

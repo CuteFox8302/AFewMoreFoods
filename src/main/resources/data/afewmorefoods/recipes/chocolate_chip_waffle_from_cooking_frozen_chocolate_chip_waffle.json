@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 90,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "afewmorefoods:frozen_chocolate_chip_waffle"
+  },
+  "result": "afewmorefoods:chocolate_chip_waffle"
+}

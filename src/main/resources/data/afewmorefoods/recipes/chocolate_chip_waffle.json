@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "afewmorefoods:chocolate_chip"
+    },
+    "%": {
+      "item": "afewmorefoods:waffle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#%#",
+    " # "
+  ],
+  "result": {
+    "item": "afewmorefoods:chocolate_chip_waffle"
+  }
+}
