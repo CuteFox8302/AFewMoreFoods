@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 90,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "afewmorefoods:sap"
+  },
+  "result": "afewmorefoods:maple_syrup"
+}

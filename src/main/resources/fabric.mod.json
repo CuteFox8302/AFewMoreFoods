@@ -22,7 +22,7 @@
       "net.cutefox.afewmorefoods.AFewMoreFoods"
     ],
     "client": [
-      "net.cutefox.afewmorefoods.AFewMoreFoods"
+      "net.cutefox.afewmorefoods.AFewMoreFoodsClient"
     ]
   },
   "mixins": [
